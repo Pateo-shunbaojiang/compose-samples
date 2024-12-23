@@ -1,9 +1,78 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="第 1 页" id="U0NXwizUPYQEdyDt2-Ml">
-    <mxGraphModel>
+    <mxGraphModel dx="2261" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="06QWkGEQkMCkJEHtK8EI-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="270" width="690" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="06QWkGEQkMCkJEHtK8EI-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="150" y="305" width="470" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="06QWkGEQkMCkJEHtK8EI-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="320" width="120" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="06QWkGEQkMCkJEHtK8EI-7" value="云端" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="354" y="100" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="06QWkGEQkMCkJEHtK8EI-8" value="appstore" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="220" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="06QWkGEQkMCkJEHtK8EI-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.55;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="06QWkGEQkMCkJEHtK8EI-7" target="06QWkGEQkMCkJEHtK8EI-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="06QWkGEQkMCkJEHtK8EI-11" value="Launcher" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="140" y="265" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="06QWkGEQkMCkJEHtK8EI-12" value="All app" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="305" width="110" height="215" as="geometry" />
+        </mxCell>
+        <mxCell id="06QWkGEQkMCkJEHtK8EI-14" value="应用分类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="320" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="06QWkGEQkMCkJEHtK8EI-15" value="应用列表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="380" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="06QWkGEQkMCkJEHtK8EI-16" value="应用搜索" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="06QWkGEQkMCkJEHtK8EI-17" value="应用详情" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="320" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="06QWkGEQkMCkJEHtK8EI-18" value="应用下载" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="380" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="06QWkGEQkMCkJEHtK8EI-19" value="应用静默安装" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="06QWkGEQkMCkJEHtK8EI-20" value="应用管理列表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="320" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="06QWkGEQkMCkJEHtK8EI-21" value="应用更新" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="380" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="06QWkGEQkMCkJEHtK8EI-22" value="应用安装卸载" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="06QWkGEQkMCkJEHtK8EI-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="06QWkGEQkMCkJEHtK8EI-19" target="06QWkGEQkMCkJEHtK8EI-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="520" as="sourcePoint" />
+            <mxPoint x="283" y="679" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="06QWkGEQkMCkJEHtK8EI-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.895;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="06QWkGEQkMCkJEHtK8EI-22" target="06QWkGEQkMCkJEHtK8EI-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="650" y="530" as="sourcePoint" />
+            <mxPoint x="500" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="06QWkGEQkMCkJEHtK8EI-27" value="系统AAOS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="620" width="690" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="06QWkGEQkMCkJEHtK8EI-28" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;AppStore.aar&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="140" y="290" width="100" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
